@@ -20,7 +20,7 @@ Tools: Remix IDE,
 4. Deploy the contract.
 
         Team members
-Stephen chacha - developed the contract and waiting page.
+Stephen chacha
       
       Waitinglist Link
   https://avalapage.my.canva.site/the-best-crowdfunding-platform-ever
