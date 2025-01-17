@@ -14,7 +14,7 @@ Language: Solidity,
 Tools: Remix IDE,
 
     Setup instructions
-1. Clone the repository : "git clone https://github.com/estebanchurchur/KevinOnaHiiCode.git".
+1. Clone the repository : "git clone https://github.com/estebanchurchur/CrowdFunding-Group19.git".
 2. Navigate to the project directory: "cd <filename>".
 3. install dependencies : "npm install".
 4. Deploy the contract.
